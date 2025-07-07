@@ -9,34 +9,34 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "blue-frequently.gl.joinmc.link",
-          "assigned_srv": "blue-frequently.gl.joinmc.link",
+          "assigned_domain": "includes-compete.gl.joinmc.link",
+          "assigned_srv": "includes-compete.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "4b721736-0dab-4ed0-ab2b-d0feb9e0396d",
-          "ip_hostname": "24.ip.gl.ply.gg",
+          "id": "270054c5-37a2-48e5-bd75-557d907a0a4e",
+          "ip_hostname": "29.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 5311,
-          "port_start": 5310,
+          "port_end": 65441,
+          "port_start": 65440,
           "region": "global",
-          "static_ip4": "147.185.221.24",
-          "static_ip6": "2602:fbaf:0:1::18",
-          "tunnel_ip": "2602:fbaf:0:1::18"
+          "static_ip4": "147.185.221.29",
+          "static_ip6": "2602:fbaf:0:1::1d",
+          "tunnel_ip": "2602:fbaf:0:1::1d"
         },
         "status": "allocated"
       },
-      "created_at": "2025-07-06T05:52:22.989823Z",
+      "created_at": "2025-07-07T01:11:50.253164Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "5c8052ac-c434-4421-9123-e1622e2dd14c",
+      "id": "5bf5e32d-fa67-4444-aac7-dd0a9c4f67ee",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "b7e7ac1e-1a31-4e93-8502-d629365e8fe1",
-          "agent_name": "from-key-992e",
+          "agent_id": "a71509fb-148a-46df-ac90-1eb3981a5734",
+          "agent_name": "from-key-23cf",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },

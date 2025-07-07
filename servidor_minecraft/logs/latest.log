@@ -1,10 +1,27 @@
-[06:00:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[06:00:43] [ServerMain/ERROR]: Failed to start the minecraft server
-axt$a: /workspaces/PruebaDefinitiva/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
-	at axt$a.a(SourceFile:95) ~[server-1.21.jar:?]
-	at axt.a(SourceFile:41) ~[server-1.21.jar:?]
-	at erf$c.<init>(SourceFile:374) ~[server-1.21.jar:?]
-	at erf.d(SourceFile:353) ~[server-1.21.jar:?]
-	at net.minecraft.server.Main.main(SourceFile:137) ~[server-1.21.jar:?]
-	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:12:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:12:20] [ServerMain/WARN]: Missing data pack paper
+[01:12:22] [ServerMain/INFO]: Loaded 1290 recipes
+[01:12:22] [ServerMain/INFO]: Loaded 1399 advancements
+[01:12:23] [Server thread/INFO]: Starting minecraft server version 1.21
+[01:12:23] [Server thread/INFO]: Loading properties
+[01:12:23] [Server thread/INFO]: Default game type: SURVIVAL
+[01:12:23] [Server thread/INFO]: Generating keypair
+[01:12:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:12:23] [Server thread/INFO]: Using epoll channel type
+[01:12:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:12:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:12:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:12:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:12:24] [Server thread/INFO]: Preparing level "world"
+[01:12:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:12:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:12:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:12:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:12:31] [Server thread/INFO]: Time elapsed: 1402 ms
+[01:12:31] [Server thread/INFO]: Done (7.192s)! For help, type "help"
+[01:14:02] [Server thread/INFO]: Richi141[/127.130.107.118:43679] logged in with entity id 6 at (2225.021097636724, 71.0, -390.1347990104121)
+[01:14:02] [Server thread/INFO]: Richi141 joined the game
+[01:17:20] [Server thread/INFO]: Richi141 lost connection: Disconnected
+[01:17:20] [Server thread/INFO]: Richi141 left the game
+[01:18:07] [Server thread/INFO]: Richi141[/127.130.107.118:46309] logged in with entity id 839 at (2243.7792853179985, 71.0, -413.43590558668956)
+[01:18:07] [Server thread/INFO]: Richi141 joined the game
