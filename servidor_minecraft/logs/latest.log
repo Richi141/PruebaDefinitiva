@@ -1,27 +1,31 @@
-[01:12:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:12:20] [ServerMain/WARN]: Missing data pack paper
-[01:12:22] [ServerMain/INFO]: Loaded 1290 recipes
-[01:12:22] [ServerMain/INFO]: Loaded 1399 advancements
-[01:12:23] [Server thread/INFO]: Starting minecraft server version 1.21
-[01:12:23] [Server thread/INFO]: Loading properties
-[01:12:23] [Server thread/INFO]: Default game type: SURVIVAL
-[01:12:23] [Server thread/INFO]: Generating keypair
-[01:12:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:12:23] [Server thread/INFO]: Using epoll channel type
-[01:12:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:12:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:12:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:12:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:12:24] [Server thread/INFO]: Preparing level "world"
-[01:12:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:12:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:12:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:12:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:12:31] [Server thread/INFO]: Time elapsed: 1402 ms
-[01:12:31] [Server thread/INFO]: Done (7.192s)! For help, type "help"
-[01:14:02] [Server thread/INFO]: Richi141[/127.130.107.118:43679] logged in with entity id 6 at (2225.021097636724, 71.0, -390.1347990104121)
-[01:14:02] [Server thread/INFO]: Richi141 joined the game
-[01:17:20] [Server thread/INFO]: Richi141 lost connection: Disconnected
-[01:17:20] [Server thread/INFO]: Richi141 left the game
-[01:18:07] [Server thread/INFO]: Richi141[/127.130.107.118:46309] logged in with entity id 839 at (2243.7792853179985, 71.0, -413.43590558668956)
-[01:18:07] [Server thread/INFO]: Richi141 joined the game
+[21:53:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:53:38] [ServerMain/INFO]: Loaded 1290 recipes
+[21:53:38] [ServerMain/INFO]: Loaded 1399 advancements
+[21:53:39] [Server thread/INFO]: Starting minecraft server version 1.21
+[21:53:39] [Server thread/INFO]: Loading properties
+[21:53:39] [Server thread/INFO]: Default game type: SURVIVAL
+[21:53:39] [Server thread/INFO]: Generating keypair
+[21:53:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:53:39] [Server thread/INFO]: Using epoll channel type
+[21:53:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:53:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:53:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:53:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:53:39] [Server thread/INFO]: Preparing level "world"
+[21:53:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:53:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:53:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:53:51] [Server thread/INFO]: Time elapsed: 862 ms
+[21:53:51] [Server thread/INFO]: Done (11.326s)! For help, type "help"
+[21:55:13] [Server thread/INFO]: Grift_Wall96[/127.55.10.56:57271] logged in with entity id 6 at (2167.186374972559, 35.0, -408.87994963520305)
+[21:55:13] [Server thread/INFO]: Grift_Wall96 joined the game
+[21:55:40] [Server thread/INFO]: Richi141[/127.130.107.118:56783] logged in with entity id 540 at (2306.699999988079, 99.19446178511754, -422.30000001192093)
+[21:55:40] [Server thread/INFO]: Richi141 joined the game
+[21:57:15] [Server thread/INFO]: [Not Secure] <Richi141> DANIEL DONDE PORONGAS ESTA
+[21:59:03] [Server thread/WARN]: Grift_Wall96 moved too quickly! -17.330499918892656,1.7990444301974264,1.0056009752423734
+[21:59:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
+[22:00:23] [Server thread/WARN]: Richi141 moved wrongly!
+[22:06:14] [Server thread/WARN]: Grift_Wall96 moved too quickly! -9.17120917020884,-0.2046003784434305,4.089583878228041
+[22:06:38] [Server thread/INFO]: [Not Secure] <Richi141> deme cohetes
+[22:06:54] [Server thread/INFO]: [Not Secure] <Richi141> le mostrare lo q tengo escondido
+[22:12:53] [Server thread/INFO]: Grift_Wall96 was slain by Richi141
